@@ -1,0 +1,12 @@
+D:\Software Lessons\MVC .NET (Murat Yücedag)\MVCproje\EntityLayer\bin\Debug\EntityLayer.dll.config
+D:\Software Lessons\MVC .NET (Murat Yücedag)\MVCproje\EntityLayer\bin\Debug\EntityLayer.dll
+D:\Software Lessons\MVC .NET (Murat Yücedag)\MVCproje\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\Software Lessons\MVC .NET (Murat Yücedag)\MVCproje\EntityLayer\bin\Debug\EntityFramework.dll
+D:\Software Lessons\MVC .NET (Murat Yücedag)\MVCproje\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Software Lessons\MVC .NET (Murat Yücedag)\MVCproje\EntityLayer\bin\Debug\EntityFramework.xml
+D:\Software Lessons\MVC .NET (Murat Yücedag)\MVCproje\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Software Lessons\MVC .NET (Murat Yücedag)\MVCproje\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+D:\Software Lessons\MVC .NET (Murat Yücedag)\MVCproje\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+D:\Software Lessons\MVC .NET (Murat Yücedag)\MVCproje\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+D:\Software Lessons\MVC .NET (Murat Yücedag)\MVCproje\EntityLayer\obj\Debug\EntityLayer.dll
+D:\Software Lessons\MVC .NET (Murat Yücedag)\MVCproje\EntityLayer\obj\Debug\EntityLayer.pdb
